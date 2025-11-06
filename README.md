@@ -1,4 +1,4 @@
-# ATM-PROJECT
+# Mini-ATM-Machine
 
 Project Report
 Title:
